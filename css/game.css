@@ -150,12 +150,12 @@
 	font-size: 0.85em;
 	bottom: 8vh;
 	letter-spacing: 0.2em;
-	color: #68c3c0;
+	color: #f13381;
 }
 
 .message--instructions span {
 	display: block;
-	color: #d6483b;
+	color: #7f91ed;
 	white-space: nowrap;
 }
 
